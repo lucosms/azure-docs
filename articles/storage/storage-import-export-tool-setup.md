@@ -33,7 +33,7 @@ If you are **preparing drives** for an import job, you will need to meet the fol
 * You must have an active Azure subscription.
 * Your subscription must include a storage account with enough available space to store the files you are going to import.
 * You need at least one of the account keys for the storage account.
-* You need a computer (the "copy machine") with Windows 7, Windows Server 2008 R2, or a newer Windows operating system installed.
+* You need a computer (the "copy machine") with one of the following 64-bit Operating Systems: Windows 7, Windows Server 2008 R2, or a newer Windows operating system installed.
 * The .NET Framework 4 must be installed on the copy machine.
 * BitLocker must be enabled on the copy machine.
 * You will need one or more empty 3.5-inch SATA hard drives connected to the copy machine.
